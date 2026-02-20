@@ -1,1 +1,3 @@
-class NamesRoute {}
+class NamesRoute {
+  static const String login = '/login';
+}
